@@ -1,4 +1,4 @@
-package com.example.api;
+package com.api.enums;
 
 public class Enums {
     public enum ShortcutType{

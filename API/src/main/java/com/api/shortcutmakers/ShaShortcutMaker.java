@@ -1,4 +1,4 @@
-package com.example.api;
+package com.api.shortcutmakers;
 
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;

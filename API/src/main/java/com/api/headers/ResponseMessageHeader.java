@@ -1,4 +1,4 @@
-package com.example.api;
+package com.api.headers;
 
 public class ResponseMessageHeader {
     public final String fileShortcut;

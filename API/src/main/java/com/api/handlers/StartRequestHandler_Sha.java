@@ -1,4 +1,9 @@
-package com.example.api;
+package com.api.handlers;
+
+import com.api.headers.ResponseMessageHeader;
+import com.api.headers.StartRequestHeader;
+import com.api.parser.PDFParser;
+import com.api.shortcutmakers.ShaShortcutMaker;
 
 import java.security.NoSuchAlgorithmException;
 

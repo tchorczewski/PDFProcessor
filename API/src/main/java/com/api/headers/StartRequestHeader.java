@@ -1,4 +1,6 @@
-package com.example.api;
+package com.api.headers;
+
+import com.api.enums.Enums;
 
 public class StartRequestHeader {
     private final String Base64Pdf;

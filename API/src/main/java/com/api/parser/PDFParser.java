@@ -1,4 +1,4 @@
-package com.example.api;
+package com.api.parser;
 
 public class PDFParser {
     public static byte[] Parse(String base64String){
