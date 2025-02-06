@@ -1,3 +1,4 @@
 # PDF Processor
- In the ShortcutMaker folder is the frontend of the app made in swing, using it You can generate SHA & MD5 shortcuts of pdf file and save them on your pc. 
- API is simple and made on Spring Boot. It is using port 8080 by default.
+A desktop application with a Swing-based frontend for generating SHA and MD5 hashes of PDF files and saving them locally. The backend is built with Spring Boot and runs on port 8080 by default.
+
+The application provides a simple and efficient way to verify file integrity.
